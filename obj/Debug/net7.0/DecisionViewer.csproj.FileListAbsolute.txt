@@ -1,0 +1,15 @@
+/home/eayesmunt/development/CSharp/DecisionViewer/bin/Debug/net7.0/DecisionViewer
+/home/eayesmunt/development/CSharp/DecisionViewer/bin/Debug/net7.0/DecisionViewer.deps.json
+/home/eayesmunt/development/CSharp/DecisionViewer/bin/Debug/net7.0/DecisionViewer.runtimeconfig.json
+/home/eayesmunt/development/CSharp/DecisionViewer/bin/Debug/net7.0/DecisionViewer.dll
+/home/eayesmunt/development/CSharp/DecisionViewer/bin/Debug/net7.0/DecisionViewer.pdb
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.csproj.AssemblyReference.cache
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.GeneratedMSBuildEditorConfig.editorconfig
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.AssemblyInfoInputs.cache
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.AssemblyInfo.cs
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.csproj.CoreCompileInputs.cache
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.dll
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/refint/DecisionViewer.dll
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.pdb
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/DecisionViewer.genruntimeconfig.cache
+/home/eayesmunt/development/CSharp/DecisionViewer/obj/Debug/net7.0/ref/DecisionViewer.dll
