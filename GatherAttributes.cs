@@ -102,21 +102,24 @@ public static class Requirements {
                             Console.WriteLine("Please enter valid response");
                             break;
                         case "done":
-                            keepGoing = false;
+                            invalidResponse = false;
                             break;
                         case "yes":
                             option.Attributes.Add(new WeightedAttribute(attribute.Name, 100));
+                            invalidResponse = false;
                             break;
                         case "no":
                             option.Attributes.Add(new WeightedAttribute(attribute.Name, 0));
+                            invalidResponse = false;
                             break;
                         default:
                             var weight = int.Parse(response);
                             if (weight < 0 || weight > 10) {
                                 Console.WriteLine("Please enter a value between 0 and 10.");
-                                break;
+                            } else {
+                                option.Attributes.Add(new WeightedAttribute(attribute.Name, weight));
+                                invalidResponse = false;
                             }
-                            option.Attributes.Add(new WeightedAttribute(attribute.Name, weight));
                             break;
                     }   
                 }

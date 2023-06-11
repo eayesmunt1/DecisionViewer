@@ -23,6 +23,6 @@ public static class Analytics {
             }
         }
 
-        Console.WriteLine(string.Format("Your best choice is {0}", options[maxIndex]));
+        Console.WriteLine(string.Format("Your best choice is {0}", options[maxIndex].Name));
     }
 }
